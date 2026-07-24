@@ -12,4 +12,5 @@ stash stash pop  drop list apply 연습
 main 브랜치 작업 
 rebase 브랜치 작업  
 stash stash pop  drop list apply 연습Detached HEAD 실험
+rebase 브랜치 작업2
 
