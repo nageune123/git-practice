@@ -13,7 +13,7 @@ main 브랜치 작업
 rebase 브랜치 작업  
 stash stash pop  drop list apply 연습Detached HEAD 실험
 rebase 브랜치 작업2
-2 번째 cherry-pick 연습
 reflog 두 번째 실습
-
 Pull Request 연습
+2 번째 cherry-pick 연습
+
