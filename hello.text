@@ -8,20 +8,14 @@ reset 연습
 hard 연습 커밋
 fetch pull 연습 
 2번째 fetch pull 연습
-<<<<<<< HEAD
 stash stash pop  drop list apply 연습
 main 브랜치 작업 
 rebase 브랜치 작업  
 stash stash pop  drop list apply 연습Detached HEAD 실험
-<<<<<<< HEAD
 rebase 브랜치 작업2
 2 번째 cherry-pick 연습
 reflog 두 번째 실습
-
 Pull Request 연습
-=======
 stash stash pop  drop list apply 연습Detached HEAD 실험
->>>>>>> 522483f (Detached HEAD 실험)
-=======
 2 번째 cherry-pick 연습
->>>>>>> a1b2391 (2번째 cherry-pick 연습)
+
