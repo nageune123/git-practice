@@ -12,10 +12,7 @@ stash stash pop  drop list apply 연습
 main 브랜치 작업 
 rebase 브랜치 작업  
 stash stash pop  drop list apply 연습Detached HEAD 실험
-<<<<<<< HEAD
 rebase 브랜치 작업2
-
-=======
 2 번째 cherry-pick 연습
 reflog 두 번째 실습
->>>>>>> ce30d25 (reflog 실습2)
+
